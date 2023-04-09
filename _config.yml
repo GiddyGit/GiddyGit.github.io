@@ -11,7 +11,7 @@ title:            Flight BK
 tagline:          'A Flight Booking App'
 description:      'A mock flight booking app that is catered towards working adults looking to book a flight cheaply.'
 url:              https://GiddyGit.github.io
-baseurl:          
+baseurl:          /
 
 author:
   name:           'Amelia Kobayashi'
@@ -29,9 +29,3 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - redcarpet
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> ca76a62dab53dee32927a722626c59f0a5c818c8
