@@ -3,22 +3,20 @@ layout: post
 title: Introducing Flight BK
 ---
 
-Flight BK was a personal UI/UX design project, where I tried to figure out how to create a user friendly and intuitive app that helps working adults and 
-students alike on finding cheap flights back home. 
+Flight BK is a personal UI/UX design project, where I tried to figure out how to create a user friendly and intuitive app that helps working adults and 
+students alike with finding cheap flights back home. 
 My role within this project was to conduct user interviews, create wireframes, create a prototype, and finally conduct a usability testing for the prototype of the app. 
 
-### Pain Points
+### Painpoints
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+For this project, I decided to extend my research to cover one aspect which I struggle with, which was booking a flight. As someone with a low income, often times I did not have the sufficient funds nor the capability to plan sophisticated holidays in advance. I always struggled with finding an app or a website that can direct me to the cheapest options available for me. The only possible way was to specify the direction, which can be a struggle when the airport of your choice is offering hundreds of flights. I wanted to research flights based on: 
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* Location of the airport that the user will depart from
+* Budget
 
-### Hyde features
+This would allow users to plan a spontaneous trip. 
+
+### User Research
 
 In addition to the features of Poole, Hyde adds the following:
 
