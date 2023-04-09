@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Introducing Flight BK
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Flight BK was a personal UI/UX design project, where I tried to figure out how to create a user friendly and intuitive app that helps working adults and 
+students alike on finding cheap flights back home. 
+My role within this project was to conduct user interviews, create wireframes, create a prototype, and finally conduct a usability testing for the prototype of the app. 
 
-### Built on Poole
+### Pain Points
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
